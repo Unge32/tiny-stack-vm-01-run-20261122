@@ -1,1 +1,0 @@
-Build KANCIL: a tiny stack VM in main.ts, kit ISA byte-exact (all traps, limits, wrapping math), golfed as small as possible. Verify 40/40 on the practice set.
